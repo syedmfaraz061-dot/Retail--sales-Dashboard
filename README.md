@@ -1,3 +1,5 @@
+https://github.com/syedmfaraz061-dot/Retail--sales-Dashboard/blob/main/Retail_Sales_Performance_Report_SyedMutallibFaraz_v2.pdf
+
 # 🏷️ Retail Sales Performance Dashboard (Power BI)
 
 ### 📊 Project Overview
