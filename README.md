@@ -112,7 +112,7 @@ The Power BI dashboard visualizes:
 **Syed Mutallib Faraz**  
 🎓 Master’s Student in Economics | Data Analytics Enthusiast  
 📍 Interests |Data-Driven Business Insights  
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/syed-mutallib-faraz-0063a0385) for collaboration or feedback.
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/syed-mutallib-faraz-0063a0385) for feedback.
 
 ---
 
